@@ -1,7 +1,10 @@
-[
+[ "Time Span",
+  "Agent Name",
   "Alpha Pages",
+  "Agent Faction",
+  "Date (yyyy-mm-dd)",
+  "Time (hh:mm:ss)",
   "Alpha Op Points",
   "Shared Memories",
   "Shared Memories Global Op Points"
-  
 ]
